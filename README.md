@@ -1,4 +1,4 @@
-# Trading Algorithm: Moving Average Crossover Strategy
+# Trading Algorithm: Moving Average Crossover Strategy Visualizer
 
 ## Overview
 This project implements a trading algorithm using the Moving Average Crossover strategy. It allows users to download historical stock data and visualize trading signals based on short and long moving averages.
