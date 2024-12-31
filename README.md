@@ -1,4 +1,4 @@
-# Trading Algorithm: Moving Average Crossover Strategy Visualizer
+Moving Average Crossover Strategy Visualizer
 
 ## Overview
 This project implements a trading visualizer using the Moving Average Crossover strategy.
